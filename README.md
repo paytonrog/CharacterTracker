@@ -22,4 +22,4 @@ To better understand how addons work, or for any general questions, you can look
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](link).
+Please read [CONTRIBUTING.md](https://github.com/paytonrog/CharacterTracker/blob/master/CONTRIBUTING.MD).

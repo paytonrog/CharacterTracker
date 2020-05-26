@@ -16,5 +16,5 @@ Please do not use the issue tracker to ask basic questions or inquire if your wo
 
 ## Expectations
 
-Please do not submit code that would be considered a "hack." Please don't submit any code that isn't necessary or adds any extra features that you haven't contacted the owner about first. Try to refrain from adding any additional classes/files if they aren't needed. Please visit [CODE_OF_CONDUCT.md](link) for the expectations our community has when interacting with each other.
+Please do not submit code that would be considered a "hack." Please don't submit any code that isn't necessary or adds any extra features that you haven't contacted the owner about first. Try to refrain from adding any additional classes/files if they aren't needed. Please visit [CODE_OF_CONDUCT.md](https://github.com/paytonrog/CharacterTracker/blob/master/CODE_OF_CONDUCT.md) for the expectations our community has when interacting with each other.
 
